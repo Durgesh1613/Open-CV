@@ -1,0 +1,8 @@
+Tutorial 1.py :- Introduction & Images
+Tutorial 2.py :- Image Fundamentals and Manipulation
+Tutorial 3.py :- Image Fundamentals and Manipulation
+Tutorial 4.py :- Drawing (Lines, Images, Circles & Text)
+Tutorial 5.py :- Colors and Color Detection
+Tutorial 6.py :- Corner Detection
+Tutorial 7.py :- Template Matching (Object Detection)
+Tutorial 8.py :- Face and Eye Detection
